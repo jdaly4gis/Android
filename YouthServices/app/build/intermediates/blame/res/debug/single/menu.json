@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Development\\MobileProjects\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\menu\\basemaps.xml",
+        "source": "E:\\Development\\MobileProjects\\YouthServices\\app\\src\\main\\res\\menu\\basemaps.xml"
+    },
+    {
+        "merged": "E:\\Development\\MobileProjects\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_ys_list.xml",
+        "source": "E:\\Development\\MobileProjects\\YouthServices\\app\\src\\main\\res\\menu\\fragment_ys_list.xml"
+    }
+]
