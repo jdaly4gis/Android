@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\appicon.png",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\mipmap-hdpi\\appicon.png"
+    },
+    {
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

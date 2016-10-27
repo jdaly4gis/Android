@@ -18,7 +18,7 @@
             android:layout_marginTop="40dp"
             android:gravity="center"
             android:layout_gravity="center_horizontal"
-            android:drawableRight="@drawable/yslogo"
+            android:drawableRight="@drawable/eerlogo"
             android:drawablePadding="40dp"
             />
 

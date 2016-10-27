@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_9c1e8848b4d182659f1719f92c6cfe275888ae79\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_af183369f1a47f33ba6093920d6bd12460a91539\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_12d5dbd404f17e71c8465c063c18d629b2431951\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4e2b761ffb77a223cecac7dfcf0a0fceba2b5fb8">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_47804a43bf1fe5da95e235bae422ff9065661d39\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.7\jars\libs\jackson-mapper-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-mapper-1.9.5_c37cb56ca78bdfeb513691520019dd6080bffcc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jdaly\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_a2d991a1547517a6d091a85dcbb258b2eb869797\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7257468ba8db50fb4b4b91d4a564c87eceb89f07">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.esri.arcgis.android-arcgis-android-10.2.7_5e0cc490dbe1f38b7b967b4082862905b06ad10d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_88890a3e51d3f15002c97208f258b4ec07e3be06\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a463f91471b4d4d45299a77f8bf495b040a1f9cd">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ea2b56c46f10007c5982663fba462254d3baedc6\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_b3307220ffa1a1c16366cfe089f1e8c31190a57b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.7\jars\libs\arcgis-android-api.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0bb64910fdd2d390b1edb691b1afd2ba5ccd81c">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\arcgis-android-api_f0271dd05ae331e341a8d877d461a3b67aceeee0\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_217c33323d79bebe549286b45373833706e9feb4\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d2b794963a63bc8c412dbaf9c34b4caae5a9448e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_37143e00791c883f40d1a8827690a2c9ff018b4d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.7\jars\libs\arcgis-android-app-toolkit.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5c0557f6e89c284472298df599e34480e0aa946">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\arcgis-android-app-toolkit_64fe627e98bd13cf26d00f6ca1f01a5c90ebd352\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.7\jars\libs\jcifs-1.3.17.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\jcifs-1.3.17_4a4eae49bedf6d67063e71a176f7b75de71c1fc5\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_896c46325a9ac360091540eb3bccf0c114cf8733\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_e305b26ace0b07f960edc2d4286484767edf93da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jdaly\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_058e92f7540bfaa7757a234a00f6a465e5bcef9a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_2dd90ab7c04e79e084e17b6eaaa9774447c76db6\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.7\jars\libs\jackson-core-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="75ac72d19377a95225217cb4fdfa1290f3c81145">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-1.9.5_c65b47ea066a51dc43c8a6d77234d9515327785b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Development\Android\YouthServices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Development\Android\YouthServices\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_3545817c382f51e852e783caeedbb6a4ce567da6\classes.dex" />
+    </item>
+
+</items>

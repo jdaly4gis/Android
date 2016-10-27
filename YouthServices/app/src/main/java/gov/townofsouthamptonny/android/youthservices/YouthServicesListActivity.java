@@ -3,6 +3,7 @@ package gov.townofsouthamptonny.android.youthservices;
 import android.content.Intent;
 import android.support.v4.app.Fragment;
 
+
 /**
  * Created by JDaly on 2/25/2016.
  */
@@ -10,7 +11,6 @@ public class YouthServicesListActivity extends SingleFragmentActivity implements
 
     @Override
     protected Fragment createFragment() {
-
         return new YouthServicesListFragment();
     }
 

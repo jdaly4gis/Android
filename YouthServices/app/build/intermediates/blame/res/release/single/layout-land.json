@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\list_twopane.xml",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\layout-land\\list_twopane.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_twopane.xml",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\layout-land\\activity_twopane.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\fragment_ys_list.xml",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\layout-land\\fragment_ys_list.xml"
+    }
+]

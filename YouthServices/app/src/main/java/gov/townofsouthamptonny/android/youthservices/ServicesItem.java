@@ -6,7 +6,6 @@ import java.util.UUID;
  * Created by JDaly on 2/24/2016.
  */
 public class ServicesItem {
-
     private UUID mUUID;
     private String Phone1Ext;
     private String ID;

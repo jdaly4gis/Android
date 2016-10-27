@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\Development\\MobileProjects\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_ys_list.xml",
-        "source": "E:\\Development\\MobileProjects\\YouthServices\\app\\src\\main\\res\\layout-land\\fragment_ys_list.xml"
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_ys_list.xml",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\layout-land\\fragment_ys_list.xml"
     },
     {
-        "merged": "E:\\Development\\MobileProjects\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_twopane.xml",
-        "source": "E:\\Development\\MobileProjects\\YouthServices\\app\\src\\main\\res\\layout-land\\list_twopane.xml"
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_twopane.xml",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\layout-land\\activity_twopane.xml"
     },
     {
-        "merged": "E:\\Development\\MobileProjects\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_twopane.xml",
-        "source": "E:\\Development\\MobileProjects\\YouthServices\\app\\src\\main\\res\\layout-land\\activity_twopane.xml"
+        "merged": "E:\\Development\\Android\\YouthServices\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_twopane.xml",
+        "source": "E:\\Development\\Android\\YouthServices\\app\\src\\main\\res\\layout-land\\list_twopane.xml"
     }
 ]

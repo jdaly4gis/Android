@@ -59,7 +59,7 @@ import java.util.List;
 /**
  * Created by JDaly on 2/18/2016.
  */
-public class YouthServicesListFragment extends Fragment  {
+public class  YouthServicesListFragment extends Fragment  {
 
     private static final String TAG = "YouthServicesListFragment";
     private static final int REQUEST_ERROR = 0;
